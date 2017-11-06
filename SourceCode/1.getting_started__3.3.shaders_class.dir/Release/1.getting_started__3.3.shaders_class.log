@@ -1,0 +1,16 @@
+﻿  Building Custom Rule E:/LearnOpenGL/LearnOpenGL-master/CMakeLists.txt
+  CMake does not need to re-run because E:/LearnOpenGL/LearnOpenGL-git/LearingOpenGL/SourceCode/CMakeFiles/generate.stamp is up-to-date.
+cl : 命令行 warning D9002: 忽略未知选项“/EH;”
+cl : 命令行 warning D9002: 忽略未知选项“/EH-”
+cl : 命令行 warning D9002: 忽略未知选项“/EHt”
+cl : 命令行 warning D9002: 忽略未知选项“/EHd”
+cl : 命令行 warning D9002: 忽略未知选项“/EH=”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+  shaders_class.cpp
+E:\LearnOpenGL\LearnOpenGL-master\includes\learnopengl/shader_s.h(64): warning C4101: “infoLog”: 未引用的局部变量
+E:\LearnOpenGL\LearnOpenGL-master\includes\learnopengl/shader_s.h(63): warning C4101: “success”: 未引用的局部变量
+    正在创建库 E:/LearnOpenGL/LearnOpenGL-git/LearingOpenGL/SourceCode/Release/1.getting_started__3.3.shaders_class.lib 和对象 E:/LearnOpenGL/LearnOpenGL-git/LearingOpenGL/SourceCode/Release/1.getting_started__3.3.shaders_class.exp
+  1.getting_started__3.3.shaders_class.vcxproj -> E:\LearnOpenGL\LearnOpenGL-master\bin\1.getting_started\Release\1.getting_started__3.3.shaders_class.exe
