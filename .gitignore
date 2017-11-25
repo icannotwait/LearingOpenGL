@@ -34,3 +34,5 @@
 # My config
 SourceCode/*
 CMakeFiles/*
+bin/
+build/
